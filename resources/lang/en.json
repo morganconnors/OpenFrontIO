@@ -838,7 +838,9 @@
       "defend_from": "Defend from [P1]!",
       "dont_attack": "Don’t attack [P1]!",
       "ally": "[P1] is my ally!",
-      "build_posts": "Build Defense Posts!"
+      "build_posts": "Build Defense Posts!",
+      "build_sams": "Build SAMs!",
+      "stack_sams": "Stack SAMs!"
     },
     "greet": {
       "hello": "Hello!",

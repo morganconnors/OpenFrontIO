@@ -75,7 +75,15 @@
     {
       "key": "build_posts",
       "requiresPlayer": false
-    }
+    },
+    {
+      "key": "build_sams",
+      "requiresPlayer": false
+    },
+    {
+      "key": "stack_sams",
+      "requiresPlayer": false
+     }
   ],
   "greet": [
     {
